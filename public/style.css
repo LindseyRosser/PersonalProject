@@ -1,0 +1,15 @@
+body{
+    background-color:#fff;
+    }
+     
+    #myCanvas
+    {
+        display: block;
+        margin: 0 auto;
+        margin-top:10px;
+        background-image: url(images/milky-way-2695569_960_720.jpg);
+        border-radius: 60px;
+        box-shadow: 3px 3px 0px #888888;
+        padding-top:25px;
+    }
+    
